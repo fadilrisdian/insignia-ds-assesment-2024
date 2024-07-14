@@ -1,4 +1,4 @@
 # insignia-ds-assesment-2024
 
-1. Dataset
-https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data
+
+The following is a repository of technical test data for scientists at Insignia
