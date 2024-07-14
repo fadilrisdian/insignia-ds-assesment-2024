@@ -1,0 +1,4 @@
+houseId,length,lengthUnit,width,widthUnit,isCarport,price,notes
+8,50,meter,20,meter,0,IDR 15 Billion,VALIDATION DATA
+9,20,meter,30,meter,1,IDR 13 Billion,VALIDATION DATA
+10,10,meter,20,meter,0,IDR 11 Billion,VALIDATION DATA
